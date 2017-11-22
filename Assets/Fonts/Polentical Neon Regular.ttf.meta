@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c8597416d9d38884992ae4dbed7c85c1
+timeCreated: 1508523322
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Polentical Neon
+  fontNames:
+  - Polentical Neon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e07662dc07005ce42a002398baca49ea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
